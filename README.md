@@ -47,7 +47,7 @@ Let's change it to something more visible.
 
 ```javascript
 dodger.style.backgroundColor = "#FF69B4";
-```
+``` 
 
 Awesome!
 
